@@ -1,6 +1,7 @@
 import numpy as np
 
 def COA(FOBJ, lu, nfevalMAX, n_packs=20, n_coy=5):
+
     D = lu.shape[1]
     VarMin = lu[0]
     VarMax = lu[1]
@@ -111,21 +112,21 @@ def COA(FOBJ, lu, nfevalMAX, n_packs=20, n_coy=5):
     return GlobalMin, GlobalParams
 
 
-
 if __name__=="__main__":
+
     import time
-    f= lambda x: sum(2*x**4 + 5*x**3 - 9*x**2 -17)
+    f = lambda x: sum(x**2)
     d = 30
     lu = np.zeros((2, d))
     lu[1, :] = 1
-    nfeval=1000*d
+    nfeval = 1000*d
     Np = 10
     Nc = 10
-    t=time.time()
+    t = time.time()
     for i in range(10):
-        mini, par = coa(f, lu, nfeval)
+        mini, par = COA(f, lu, nfeval)
         print(time.time()-t)
-        t=time.time()
+        t = time.time()
     print(mini, par)
 
 
