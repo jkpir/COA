@@ -1,6 +1,35 @@
+''' ------------------------------------------------------------------------
+% Coyote Optimization Algorithm (COA) for Global Optimization.
+% A nature-inspired metaheuristic proposed by Juliano Pierezan and 
+% Leandro dos Santos Coelho (2018).
+%
+% Pierezan, J. and Coelho, L. S. "Coyote Optimization Algorithm: A new 
+% metaheuristic for global optimization problems", Proceedings of the IEEE 
+% Congress on Evolutionary Computation (CEC), Rio de Janeiro, Brazil, July 
+% 2018, pages 2633-2640.
+%
+% Federal University of Parana (UFPR), Curitiba, Parana, Brazil.
+% juliano.pierezan@ufpr.br
+% 
+% Python version coded by Rodrigo Meira de Andrade (Jan-2019) @rodrigo2019
+%
+%% ---------------------------------------------------------------------'''
+
 import numpy as np
 
 def COA(FOBJ, lu, nfevalMAX, n_packs=20, n_coy=5):
+"""
+Inputs: 
+FOBJ: objective function
+lu: Lower and upper boundaries
+nfevalMAX: maximum number of function evaluations
+n_packs: number of packs
+n_coys: number of coyotes
+
+Outputs:
+GlobalMin: minimum global cost achieved
+GlobalParams: set of optimized variables
+"""
 
     D = lu.shape[1]
     VarMin = lu[0]
