@@ -2,17 +2,27 @@ clear all
 close all
 clc
 
-% Optimization setup
-FOBJ        = @(x) Rastrigin(x);      % Optimization problem
-D           = 30;                     % Problem dimension
-lu          = [zeros(1,D);ones(1,D)]; % Seach space
-nfevalMAX   = 10000*D;                % Stopping criteria
-Np          = 10;                     % Number of packs
-Nc          = 10;                     % Number of coyotes
-[GlobalParams,GlobalMin] = COA(FOBJ, lu, nfevalMAX,Np,Nc); % Start process
+% Objective function setup
+FOBJ        = @(x) sum(x.^2);        % Optimization problem
+D           = 10;                    % Problem dimension
+lu          = [-10*ones(1,D);
+                10*ones(1,D)];       % Seach space
+% COA paramters setup         
+nfevalMAX   = 20000;                 % Stopping criteria
+Np          = 20;                    % Number of packs
+Nc          = 5;                     % Number of coyotes
 
-% Show results
-fprintf(1,'COA''s global optimum: %.4g\n',GlobalMin);
-for i=1:D
-    fprintf(1,'COA''s global parameters are x(%d): %.4f\n',i,GlobalParams(i));
+% Experimental setup
+n_exper = 3;                         % Number of experiments
+y = zeros(1,n_exper);                % Objective costs achieved
+t = clock();                         % Time counter (initial value)
+for i=1:n_exper
+    % Apply the COA to the optimization problem
+    [~,y(1,i)] = COA(FOBJ, lu, nfevalMAX,Np,Nc); % Start process
+    % Show the result (cost and time)
+    fprintf(1,'\nExperiment : %d, cost: %.6f, time: %.4f',...
+        i,y(1,i),etime(clock, t));
+    % Update time counter
+    t = clock();
 end
+    

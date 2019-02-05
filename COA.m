@@ -153,8 +153,7 @@ while nfeval<nfevalMAX % Stopping criteria
     if n_packs>1
         if rand < p_leave
             rp                  = randperm(n_packs,2);
-            rc                  = [randperm(coypack(rp(1),1),1) ...
-                                   randperm(coypack(rp(2),1),1)];
+            rc                  = randi(n_coy,1,2);
             aux                 = packs(rp(1),rc(1));
             packs(rp(1),rc(1))  = packs(rp(2),rc(2));
             packs(rp(2),rc(2))  = aux;
