@@ -43,8 +43,8 @@ def COA(FOBJ, lu, nfevalMAX, n_packs=20, n_coy=5):
     nfeval = pop_total
 
     # Output variables
-    globalMin = min(costs)
-    ibest = costs.argmin()
+    globalMin = np.min(costs[0, :])
+    ibest = np.argmin(costs[0, :])
     globalParams = coyotes[ibest, :]
 
     # Main loop
@@ -89,7 +89,7 @@ def COA(FOBJ, lu, nfevalMAX, n_packs=20, n_coy=5):
                 new_coyotes[c, :] = Limita(new_coyotes[c, :], D, VarMin, VarMax)
 
                 # Evaluate the new social condition (Eq. 13)
-                new_cost = FOBJ(new_coyotes[c, :][0])
+                new_cost = FOBJ(new_coyotes[c, :])
                 nfeval += 1
 
                 # Adaptation (Eq. 14)
@@ -119,7 +119,7 @@ def COA(FOBJ, lu, nfevalMAX, n_packs=20, n_coy=5):
                   n*(VarMin + np.random.rand(1, D) * (VarMax - VarMin))
 
             # Verify if the pup will survive
-            pup_cost = FOBJ(pup[0])
+            pup_cost = FOBJ(pup[0, :])
             nfeval += 1
             worst = np.flatnonzero(costs_aux > pup_cost)
             if len(worst) > 0:
@@ -147,8 +147,9 @@ def COA(FOBJ, lu, nfevalMAX, n_packs=20, n_coy=5):
         ages += 1
 
         # Output variables (best alpha coyote among all alphas)
-        globalMin = costs.min()
-        globalParams = coyotes[costs.argmin()]
+        globalMin = np.min(costs[0, :])
+        ibest = np.argmin(costs)
+        globalParams = coyotes[ibest, :]
 
     return globalMin, globalParams
 
@@ -159,29 +160,39 @@ def Limita(X, D, VarMin, VarMax):
 
     return X
 
-def Rastrigin(X):
-
-    # The objective function to miminize (Rastrigin function)
-    y = 10*np.size(X) + np.sum([(np.sum(X**2) - 10*np.cos(2*np.pi*X))])
+def Sphere(X):
+    y = np.sum(X**2)
 
     return y
-
 
 if __name__=="__main__":
 
     import time
-    d = 30
-    lu = np.zeros((2, d))
-    lu[0, :] = -5.12
-    lu[1, :] = 5.12
-    nfevalmax = 1000*d
-    n_packs = 10
-    n_coy = 10
-    t = time.time()
-    y = np.zeros(2)
-    for i in range(2):
-        mini, par = COA(Rastrigin, lu, nfevalmax, n_packs, n_coy)
-        y[i] = mini
-        print(time.time()-t)
+    # Objective function definition
+    fobj = Sphere           # Function
+    d = 10                  # Problem dimension
+    lu = np.zeros((2, d))   # Boundaires
+    lu[0, :] = -10          # Lower boundaires
+    lu[1, :] = 10           # Upper boundaries
+
+    # COA parameters
+    n_packs = 20            # Number of Packs
+    n_coy = 5               # Number of coyotes
+    nfevalmax = 20000       # Stopping criteria: maximum number of function evaluations
+
+    # Experimanetal variables
+    n_exper = 3             # Number of experiments
+    t = time.time()         # Time counter (and initial value)
+    y = np.zeros(n_exper)   # Experiments costs (for stats.)
+    for i in range(n_exper):
+        # Apply the COA to the problem with the defined parameters
+        gbest, par = COA(fobj, lu, nfevalmax, n_packs, n_coy)
+        # Keep the global best
+        y[i] = gbest
+        # Show the result (objective cost and time)
+        print("Experiment ", i+1, ", Best: ", gbest, ", time (s): ", time.time()-t)
         t = time.time()
+
+    # Show the statistics
+    print("Statistics (min., avg., median, max., std.)")
     print([np.min(y), np.mean(y), np.median(y), np.max(y), np.std(y)])
