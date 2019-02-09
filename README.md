@@ -6,6 +6,9 @@ https://www.mathworks.com/matlabcentral/fileexchange/68373-coa
 Python version available on:
 https://github.com/jkpir/COA
 
+R version available on:
+https://github.com/jkpir/COA
+
 Original publication:
 Pierezan, J. and Coelho, L. S. "Coyote Optimization Algorithm: A new metaheuristic for global optimization problems", Proceedings of the IEEE Congress on Evolutionary Computation (CEC), Rio de Janeiro, Brazil, July 2018, pages 2633-2640.
 https://ieeexplore.ieee.org/document/8477769
