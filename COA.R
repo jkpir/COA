@@ -192,9 +192,12 @@ nfevalMAX = 20000
 # -- Run the experiments
 n_exper = 3; 	 # Number of experiments
 y = matrix(0,1,n_exper)
+t <- Sys.time()
 for (i in 1:n_exper){
 result = COA(fobj,lu,nfevalMAX,n_packs,n_coy)
+print(Sys.time() - t)
 y[1,i] = result$globalMin
+t <- Sys.time()
 }
 
 # -- Show the statistics
