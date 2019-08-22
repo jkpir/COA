@@ -13,6 +13,10 @@ Original publication:
 Pierezan, J. and Coelho, L. S. "Coyote Optimization Algorithm: A new metaheuristic for global optimization problems", Proceedings of the IEEE Congress on Evolutionary Computation (CEC), Rio de Janeiro, Brazil, July 2018, pages 2633-2640.
 https://ieeexplore.ieee.org/document/8477769
 
+Cultural COA publication:
+Pierezan, J.; Maidl, G.; Yamao, E. M.; Coelho, L. S. and Mariani, V. C. "Cultural coyote optimization algorithm applied to a heavy duty gas turbine operation", Energy Conversion and Management, Vol. 199, Nov. 2019.
+https://www.sciencedirect.com/science/article/pii/S0196890419309239
+
 Juliano Pierezan
 https://www.linkedin.com/in/pierezanj
 https://www.researchgate.net/profile/Juliano_Pierezan
