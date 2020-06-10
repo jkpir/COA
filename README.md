@@ -1,13 +1,10 @@
 The Coyote Optimization Algorithm (COA) is a nature-inspired metaheuristic for global optimization proposed by Juliano Pierezan and Leandro dos Santos Coelho (2018).
 
-Matlab version available on:
-<link>https://www.mathworks.com/matlabcentral/fileexchange/68373-coa</link>
+Matlab version available on:<link>https://www.mathworks.com/matlabcentral/fileexchange/68373-coa</link>
 
-Python version available on:
-<link>https://github.com/jkpir/COA</link>
+Python version available on:<link>https://github.com/jkpir/COA</link>
 
-R version available on:
-<link>https://github.com/jkpir/COA</link>
+R version available on:<link>https://github.com/jkpir/COA</link>
 
 
 Original COA publication:
@@ -21,9 +18,8 @@ Pierezan, J.; Maidl, G.; Yamao, E. M.; Coelho, L. S. and Mariani, V. C. "Cultura
 https://www.sciencedirect.com/science/article/pii/S0196890419309239
 
 Binary COA:
-<a href="https://www.scimagojr.com/journalsearch.php?q=29372&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=29372" alt="SCImago Journal &amp; Country Rank"  /></a>
-Souza, R.C.T.; Macedo, C.A.; Coelho, L.S.; Pierezan, J.; Mariani, V.C. "Binary Coyote Optimization Algorithm for Feature Selection", Pattern Recognition, 2020.
-https://www.sciencedirect.com/science/article/abs/pii/S0031320320302739
+<a href="https://www.scimagojr.com/journalsearch.php?q=29372&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=29372" alt="SCImago Journal &amp; Country Rank"  />
+Souza, R.C.T.; Macedo, C.A.; Coelho, L.S.; Pierezan, J.; Mariani, V.C. "Binary Coyote Optimization Algorithm for Feature Selection", Pattern Recognition, 2020.<link>https://www.sciencedirect.com/science/article/abs/pii/S0031320320302739</link></a>
 
 Juliano Pierezan:
     
