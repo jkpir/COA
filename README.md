@@ -24,6 +24,8 @@ Pierezan, J. and Coelho, L. S. "Coyote Optimization Algorithm: A new metaheurist
 </div> 
 
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
   box-sizing: border-box;
@@ -44,6 +46,7 @@ Pierezan, J. and Coelho, L. S. "Coyote Optimization Algorithm: A new metaheurist
   clear: both;
 }
 </style>
+</head>
 
 <div class="row">
   <div class="column" style="background-color:#aaa;">
