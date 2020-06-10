@@ -18,7 +18,7 @@ Pierezan, J. and Coelho, L. S. "Coyote Optimization Algorithm: A new metaheurist
 Pierezan, J.; Maidl, G.; Yamao, E. M.; Coelho, L. S. and Mariani, V. C. "Cultural coyote optimization algorithm applied to a heavy duty gas turbine operation", Energy Conversion and Management, Vol. 199, Nov. 2019.<br><link>https://www.sciencedirect.com/science/article/pii/S0196890419309239</link>
 
 <h3>Binary COA publication:</h3>
-Souza, R.C.T.; Macedo, C.A.; Coelho, L.S.; Pierezan, J.; Mariani, V.C. "Binary Coyote Optimization Algorithm for Feature Selection", Pattern Recognition, 2020.<br><link>https://www.sciencedirect.com/science/article/abs/pii/S0031320320302739</link>
+Souza, R.C.T.; Macedo, C.A.; Coelho, L.S.; Pierezan, J.; Mariani, V.C. "Binary Coyote Optimization Algorithm for Feature Selection", Pattern Recognition, January 2020.<br><link>https://www.sciencedirect.com/science/article/abs/pii/S0031320320302739</link>
 
 <h2>Authors</h2>
 
