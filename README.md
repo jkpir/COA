@@ -16,9 +16,14 @@ Pierezan, J. and Coelho, L. S. "Coyote Optimization Algorithm: A new metaheurist
  <link>https://ieeexplore.ieee.org/document/8477769</link>
 
 <h3>Cultural COA publication:</h3>
-<a href="https://www.scimagojr.com/journalsearch.php?q=24823&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=24823" alt="SCImago Journal &amp; Country Rank"  /></a>
-Pierezan, J.; Maidl, G.; Yamao, E. M.; Coelho, L. S. and Mariani, V. C. "Cultural coyote optimization algorithm applied to a heavy duty gas turbine operation", Energy Conversion and Management, Vol. 199, Nov. 2019.
+
+ <div class="row">
+  <div class="column"></div>
+  <a href="https://www.scimagojr.com/journalsearch.php?q=24823&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=24823" alt="SCImago Journal &amp; Country Rank"  /></a>
+  <div class="column"></div>
+  Pierezan, J.; Maidl, G.; Yamao, E. M.; Coelho, L. S. and Mariani, V. C. "Cultural coyote optimization algorithm applied to a heavy duty gas turbine operation", Energy Conversion and Management, Vol. 199, Nov. 2019.
  <link>https://www.sciencedirect.com/science/article/pii/S0196890419309239</link>
+</div> 
 
 <h3>Binary COA:</h3>
 <a href="https://www.scimagojr.com/journalsearch.php?q=29372&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=29372" alt="SCImago Journal &amp; Country Rank"  />
