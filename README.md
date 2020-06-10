@@ -1,13 +1,13 @@
 The Coyote Optimization Algorithm (COA) is a nature-inspired metaheuristic for global optimization proposed by Juliano Pierezan and Leandro dos Santos Coelho (2018).
 
     Matlab version available on:
-    https://www.mathworks.com/matlabcentral/fileexchange/68373-coa
+    <link>https://www.mathworks.com/matlabcentral/fileexchange/68373-coa</link>
 
     Python version available on:
-    https://github.com/jkpir/COA
+    <link>https://github.com/jkpir/COA</link>
 
     R version available on:
-    https://github.com/jkpir/COA
+    <link>https://github.com/jkpir/COA</link>
 
 
 Original COA publication:
