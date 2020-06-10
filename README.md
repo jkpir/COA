@@ -26,12 +26,12 @@ Souza, R.C.T.; Macedo, C.A.; Coelho, L.S.; Pierezan, J.; Mariani, V.C. "Binary C
 
 <h2>Authors</h2>
 
-<h3>Juliano Pierezan:</h3>
-https://www.linkedin.com/in/pierezanj
-https://www.researchgate.net/profile/Juliano_Pierezan
-https://scholar.google.com.br/citations?user=6S89BfgAAAAJ
+<h3>Juliano Pierezan</h3>
+<link>https://www.linkedin.com/in/pierezanj</link>
+<link>https://www.researchgate.net/profile/Juliano_Pierezan</link>
+<link>https://scholar.google.com.br/citations?user=6S89BfgAAAAJ</link>
 
 <h3>Leandro dos Santos Coelho</h3>
-https://www.linkedin.com/in/leandro-dos-santos-coelho-54559214/
-https://www.researchgate.net/profile/Leandro_Coelho
-https://scholar.google.com/citations?user=0X7VkC4AAAAJ&hl=en
+<link>https://www.linkedin.com/in/leandro-dos-santos-coelho-54559214/</link>
+<link>https://www.researchgate.net/profile/Leandro_Coelho</link>
+<link>https://scholar.google.com/citations?user=0X7VkC4AAAAJ&hl=en</link>
