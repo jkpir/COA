@@ -23,11 +23,13 @@ Souza, R.C.T.; Macedo, C.A.; Coelho, L.S.; Pierezan, J. and Mariani, V.C. "Binar
 <h2>Authors</h2>
 
 <h3>Juliano Pierezan</h3>
+Juliano Pierezan received the B.S. degree in Electrical Engineering from Pontifical Catholic University of Paraná (PUCPR, Brazil) in 2013 and the M.S. degree in Elec- trical Engineering from Federal University of Paraná (UFPR, Brazil) in 2016. He is a Ph.D. student in Electrical Engineering from Federal University of Paraná (UFPR, Brazil) since 2016. His-research interests include optimization and computational intelligence.<br>
 <link>https://www.linkedin.com/in/pierezanj</link><br>
 <link>https://www.researchgate.net/profile/Juliano_Pierezan</link><br>
 <link>https://scholar.google.com.br/citations?user=6S89BfgAAAAJ</link><br>
 
 <h3>Leandro dos Santos Coelho</h3>
+Leandro dos Santos Coelho received the B.S. degree in Computer Science and also Electrical Engineering from Federal University of Santa Maria (UFSM, Brazil) in 1994 and 1999, respectively, the M.S. degree in Computer Science from the Federal Uni- versity of Santa Catarina (UFSC, Brazil) in 1997, the doctoral degree in Electrical Engineering from Federal University of Santa Catarina (UFSC, Brazil) in 20 0 0 and pos-doctoral research in the Universitá degli Studi di Padova (Padova, Italy) in 2019. He is a Professor in Pontifical Catholic University of Parana (PUCPR, Brazil), and an Associate Professor in the Electrical Engineering Department, Federal University of Parana (UFPR, Brazil). His-research interests include nonlinear artificial intelligence, data science, machine learning, deep learning and metaheuristics.<br>
 <link>https://www.linkedin.com/in/leandro-dos-santos-coelho-54559214/</link><br>
 <link>https://www.researchgate.net/profile/Leandro_Coelho</link><br>
 <link>https://scholar.google.com/citations?user=0X7VkC4AAAAJ&hl=en</link><br>
