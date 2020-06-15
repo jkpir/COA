@@ -12,13 +12,13 @@ R version available on: <link>https://github.com/jkpir/COA</link>
 <h2>Publications</h2>
 
 <h3>Original COA publication:</h3>    
-Pierezan, J. and Coelho, L. S. "Coyote Optimization Algorithm: A new metaheuristic for global optimization problems", Proceedings of the IEEE Congress on Evolutionary Computation (CEC), Rio de Janeiro, Brazil, July 2018, pages 2633-2640. <br><link>https://ieeexplore.ieee.org/document/8477769</link>
+Pierezan, J. and Coelho, L. S. "Coyote Optimization Algorithm: A new metaheuristic for global optimization problems", Proceedings of the IEEE Congress on Evolutionary Computation (CEC), Rio de Janeiro, Brazil, Jul. 2018, pp. 2633-2640. <br><link>https://ieeexplore.ieee.org/document/8477769</link>
 
 <h3>Cultural COA publication:</h3>
 Pierezan, J.; Maidl, G.; Yamao, E. M.; Coelho, L. S. and Mariani, V. C. "Cultural coyote optimization algorithm applied to a heavy duty gas turbine operation", Energy Conversion and Management, Vol. 199, Nov. 2019.<br><link>https://www.sciencedirect.com/science/article/pii/S0196890419309239</link>
 
 <h3>Binary COA publication:</h3>
-Souza, R.C.T.; Macedo, C.A.; Coelho, L.S.; Pierezan, J. and Mariani, V.C. "Binary Coyote Optimization Algorithm for Feature Selection", Pattern Recognition, Vol. 107, January 2020.<br><link>https://www.sciencedirect.com/science/article/abs/pii/S0031320320302739</link>
+Souza, R.C.T.; Macedo, C.A.; Coelho, L.S.; Pierezan, J. and Mariani, V.C. "Binary Coyote Optimization Algorithm for Feature Selection", Pattern Recognition, Vol. 107, Jan. 2020.<br><link>https://www.sciencedirect.com/science/article/abs/pii/S0031320320302739</link>
 
 <h2>Authors</h2>
 
