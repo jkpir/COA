@@ -20,6 +20,9 @@ Pierezan, J.; Maidl, G.; Yamao, E. M.; Coelho, L. S. and Mariani, V. C. "Cultura
 <h3>Binary COA publication:</h3>
 Souza, R.C.T.; Macedo, C.A.; Coelho, L.S.; Pierezan, J. and Mariani, V.C. "Binary Coyote Optimization Algorithm for Feature Selection", Pattern Recognition, Vol. 107, Nov. 2020.<br><link>https://www.sciencedirect.com/science/article/abs/pii/S0031320320302739</link>
 
+<h3>Chaotic COA publication:</h3>
+Pierezan, J.; Coelho, L. S., Mariani, V. C. ; Segundo, E. H. V. and Prayogo, D. "Chaotic coyote algorithm applied to truss optimization problems", Computers & Structures, Vol. 242, Jan. 2020.<br><link>https://www.sciencedirect.com/science/article/pii/S0045794920301565</link>
+
 <h2>Authors</h2>
 
 <h3>Juliano Pierezan</h3>
