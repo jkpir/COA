@@ -26,7 +26,7 @@ Pierezan, J.; Coelho, L. S., Mariani, V. C. ; Segundo, E. H. V. and Prayogo, D. 
 <h2>Authors</h2>
 
 <h3>Juliano Pierezan</h3>
-Juliano Pierezan received the B.S. degree in Electrical Engineering from Pontifical Catholic University of Paraná (PUCPR, Brazil) in 2013, the M.S. degree in Electrical Engineering from Federal University of Paraná (UFPR, Brazil) in 2016 and the doctoral degree in Electrical Engineering from Federal University of Parana (UFPR, Brazil) in 2020. He is a graduation professor in the Salesian Pontifical University (UNISAL, Brazil). His research interests include optimization, computational intelligence and machine learning.<br>
+Juliano Pierezan received the B.S. degree in Electrical Engineering from Pontifical Catholic University of Paraná (PUCPR, Brazil) in 2014, the M.S. degree in Electrical Engineering from Federal University of Paraná (UFPR, Brazil) in 2016 and the doctoral degree in Electrical Engineering from Federal University of Parana (UFPR, Brazil) in 2020. He is a graduation professor in the Salesian Pontifical University (UNISAL, Brazil). His research interests include optimization, computational intelligence and machine learning.<br>
 <link>https://www.linkedin.com/in/pierezanj</link><br>
 <link>https://www.researchgate.net/profile/Juliano_Pierezan</link><br>
 <link>https://scholar.google.com.br/citations?user=6S89BfgAAAAJ</link><br>
