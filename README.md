@@ -23,6 +23,7 @@ Souza, R.C.T.; Macedo, C.A.; Coelho, L.S.; Pierezan, J. and Mariani, V.C. "Binar
 <h3>Chaotic COA publications:</h3>
 Pierezan, J.; Coelho, L. S.; Mariani, V. C.; Segundo, E. H. V. and Prayogo, D. "Chaotic coyote algorithm applied to truss optimization problems", Computers & Structures, Vol. 242, Jan. 2020.<br><link>https://www.sciencedirect.com/science/article/pii/S0045794920301565</link>
 <br>
+<br>
 Tong, H.; Pierezan, J.; Xu, Y; and Coelho, L. S.. "Chaotic coyote algorithm", Journal of Ambient Intelligence and Humanized Computing, 2021.<br><link>https://link.springer.com/article/10.1007/s12652-021-03234-5</link>
 
 <h2>Authors</h2>
