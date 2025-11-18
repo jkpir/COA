@@ -32,7 +32,7 @@ Tong, H.; Pierezan, J.; Xu, Y; and Coelho, L. S. "Chaotic coyote optimization al
 Pierezan, J.; Coelho, L.S.; Mariani, V.C. and Lebensztajn, L. "Multiobjective Coyote Algorithm Applied to Electromagnetic Optimization", 22nd International Conference on the Computation of Electromagnetic Fields (COMPUMAG), 15-19 July 2019.<br><link>https://ieeexplore.ieee.org/document/9032768</link>
 
 <h3>COA Comprehensive Review:</h3>
-Ribeiro, M.H.D.M., Ribeiro, V.H.A., Camilotti, L. et al. "A Comprehensive Review of the Coyote Optimization Algorithm: Evolution, Applications, and Future Directions", Archives of Computational Methods in Engineering, Oct 2025.<br><link>https://link.springer.com/article/10.1007/s11831-025-10398-2</link>
+Ribeiro, M.H.D.M.; Ribeiro, V.H.A.; Camilotti, L. et al. "A Comprehensive Review of the Coyote Optimization Algorithm: Evolution, Applications, and Future Directions", Archives of Computational Methods in Engineering, Oct 2025.<br><link>https://link.springer.com/article/10.1007/s11831-025-10398-2</link>
 
 <h2>Authors</h2>
 
