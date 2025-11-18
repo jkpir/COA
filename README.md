@@ -37,7 +37,7 @@ Ribeiro, M.H.D.M.; Ribeiro, V.H.A.; Camilotti, L. et al. "A Comprehensive Review
 <h2>Authors</h2>
 
 <h3>Juliano Pierezan</h3>
-Juliano Pierezan received the B.S. degree in Electrical Engineering from Pontifical Catholic University of Paraná (PUCPR, Brazil) in 2014, the M.S. degree in Electrical Engineering from Federal University of Paraná (UFPR, Brazil) in 2016 and the doctoral degree in Electrical Engineering from Federal University of Parana (UFPR, Brazil) in 2020. He is a graduation professor in the Salesian Pontifical University (UNISAL, Brazil). His research interests include optimization, computational intelligence and machine learning.<br>
+Juliano Pierezan received the B.S. degree in Electrical Engineering from Pontifical Catholic University of Paraná (PUCPR, Brazil) in 2014, the M.S. degree in Electrical Engineering from Federal University of Paraná (UFPR, Brazil) in 2016 and the doctoral degree in Electrical Engineering from Federal University of Parana (UFPR, Brazil) in 2020. His roles are Global Data Sciente Senior Manager at AB-Inbev and Graduation Professor in the Conquer Business School (Brazil). His research interests include optimization, computational intelligence, machine learning and generative AI.<br>
 <link>https://www.linkedin.com/in/pierezanj</link><br>
 <link>https://www.researchgate.net/profile/Juliano_Pierezan</link><br>
 <link>https://scholar.google.com.br/citations?user=6S89BfgAAAAJ</link><br>
