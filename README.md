@@ -26,13 +26,13 @@ Souza, R.C.T.; Macedo, C.A.; Coelho, L.S.; Pierezan, J. and Mariani, V.C. "Binar
 Pierezan, J.; Coelho, L. S.; Mariani, V. C.; Segundo, E. H. V. and Prayogo, D. "Chaotic coyote algorithm applied to truss optimization problems", Computers & Structures, Vol. 242, Jan. 2020.<br><link>https://www.sciencedirect.com/science/article/pii/S0045794920301565</link>
 <br>
 <br>
-Tong, H.; Pierezan, J.; Xu, Y; and Coelho, L. S. "Chaotic coyote optimization algorithm", Journal of Ambient Intelligence and Humanized Computing, 2021.<br><link>https://link.springer.com/article/10.1007/s12652-021-03234-5</link>
+Tong, H.; Pierezan, J.; Xu, Y; and Coelho, L. S. "Chaotic coyote optimization algorithm", Journal of Ambient Intelligence and Humanized Computing, Apr. 2021.<br><link>https://link.springer.com/article/10.1007/s12652-021-03234-5</link>
 
 <h3>Multiobjective COA publication:</h3>
 Pierezan, J.; Coelho, L.S.; Mariani, V.C. and Lebensztajn, L. "Multiobjective Coyote Algorithm Applied to Electromagnetic Optimization", 22nd International Conference on the Computation of Electromagnetic Fields (COMPUMAG), 15-19 July 2019.<br><link>https://ieeexplore.ieee.org/document/9032768</link>
 
 <h3>COA Comprehensive Review:</h3>
-Ribeiro, M.H.D.M., Ribeiro, V.H.A., Camilotti, L. et al. "A Comprehensive Review of the Coyote Optimization Algorithm: Evolution, Applications, and Future Directions", Arch Computat Methods Eng, Oct 2025.<br><link>https://link.springer.com/article/10.1007/s11831-025-10398-2</link>
+Ribeiro, M.H.D.M., Ribeiro, V.H.A., Camilotti, L. et al. "A Comprehensive Review of the Coyote Optimization Algorithm: Evolution, Applications, and Future Directions", Archives of Computational Methods in Engineering, Oct 2025.<br><link>https://link.springer.com/article/10.1007/s11831-025-10398-2</link>
 
 <h2>Authors</h2>
 
